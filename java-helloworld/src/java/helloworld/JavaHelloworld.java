@@ -16,6 +16,7 @@ public class JavaHelloworld {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello World!This is my first Java Code.");
     }
     
 }
